@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shunqiang Feng<br>冯顺强
+title: Shunqiang Feng
 
 # Full name (for SEO)
 first_name: Shunqiang
