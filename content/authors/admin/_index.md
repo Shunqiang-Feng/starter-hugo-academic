@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Shunqiang Feng
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Shunqiang
+last_name: Feng
 
 # Status emoji
 status:
