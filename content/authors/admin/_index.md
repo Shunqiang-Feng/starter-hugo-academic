@@ -22,13 +22,13 @@ organizations:
     url: https://www.uestc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a passionate PhD candidate with a strong background in Electronic Information Engineering. My research interests include deep learning, brain science, and computational modeling.
+bio: I am a passionate PhD candidate with a strong background in Electronic Information Engineering. My research interests include deep learning, medical image analysis, and embedded systems.
 
 # Interests to show in About widget
 interests:
   - Deep Learning
-  - Brain Science
-  - Embedded Systems/Communications
+  - Medical Image Analysis
+  - Embedded Systems
 
 # Education to show in About widget
 education:
@@ -59,9 +59,5 @@ email: gradientless@outlook.com
 highlight_name: true
 ---
 
-I am a dedicated PhD candidate in Electronic Information Engineering at the University of Electronic Science and Technology of China. My research focuses on the crossroads of deep learning and brain science, where I use PyTorch to build neural networks and explore the interpretability of Transformer models, especially ViT.
-
-In addition to my research, I have received several prestigious awards at both the national and international levels, including the 3rd prize in the China College Students' 'Internet+' Innovation and Entrepreneurship Competition and Honorable Mention in the American College Students' Mathematical Contest in Modeling.
-
-I am passionate about advancing the field of artificial intelligence and am excited to contribute to innovative research in the embedded systems and communications domain.
+I am a passionate PhD candidate with a strong background in Electronic Information Engineering. My research interests lie at the intersection of artificial intelligence and its applications in the fields of Internet of Things (IoT) and medicine. I am dedicated to exploring innovative solutions that harness AI's potential to transform these domains, addressing complex challenges and making a positive impact on society.
 {style="text-align: justify;"}
