@@ -88,8 +88,7 @@ sections:
         - certificate_url: https://www.datacamp.com
           date_end: ''
           date_start: '2022-08-10'
-          description:  Learned the hardware implementation of deep learning neural networks from creating datasets to inference in embedded 
-systems and completed projects like the garbage classification system and gesture classification system.
+          description:  Hardware implementation of deep learning neural networks.
           organization: Chinese Institute of Electronics
           organization_url: http://www.socchina.net/
           title: 'Intelligent Tracking Camera System'
