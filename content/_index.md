@@ -32,8 +32,8 @@ sections:
                 icon_pack: fab
         - name: Software Packages
           description: Pytorch
-          icon: camera-retro
-          icon_pack: fas
+          icon: folder
+          icon_pack: fad
   - block: experience
     content:
       title: Experience
