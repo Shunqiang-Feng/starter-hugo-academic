@@ -16,11 +16,11 @@ sections:
       title: Skills
       items:
         - name: English
-          description: IELTS 6.5(L7 R7 W6.5 S6)
+          description: IELTS 6.5 (L7 R7 W6.5 S6)
           icon: language
           icon_pack: fas
         - name: Programme
-          description: Python Matlab C
+          description: Python  Matlab  C
           icon: code
           icon_pack: fas
         - name: Software Packages
