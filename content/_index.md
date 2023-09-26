@@ -75,30 +75,55 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
+        # 下面一行待修改
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          date_start: '2022-12-01'
+          description: Mathematical Modeling of Real-Life Problems, Programming Analysis, and Providing a 25-Page Solution.
+          organization: Consortium for Mathematics and its Applications
+          organization_url: https://www.comap.com/contests/mcm-icm
+          title: Honorable Mention in Interdisciplinary Contest in Modeling
+          url: https://www.comap.com/contests/mcm-icm
+        # 下面一行待修改
         - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          date_end: ''
+          date_start: '2022-08-10'
+          description:  Learned the hardware implementation of deep learning neural networks from creating datasets to inference in embedded 
+systems and completed projects like the garbage classification system and gesture classification system.
+          organization: Chinese Institute of Electronics
+          organization_url: http://www.socchina.net/
+          title: 'Intelligent Tracking Camera System'
+          url: http://www.socchina.net/
+        # 下面一行待修改
+        - certificate_url: https://www.coursera.org
+          # 互联网+
+          date_end: ''
+          date_start: '2021-10-25'
+          description: Application of Generative Adversarial Models in Image Style Transfer, Awarded National Bronze Medal
+          organization: National College Student Entrepreneurship Services
+          organization_url: https://cy.ncss.cn/
+          title: CycleGAN Training Image Style Transfer Model
+          url: https://cy.ncss.cn/
+        # 下面一行待修改
+        - certificate_url: https://www.coursera.org
+          # 国家励志
+          date_end: '2022-09-01'
+          date_start: '2021-09-01'
+          description: Top 10% of students in the school
+          organization: Ministry of Education of the People's Republic of China
+          organization_url: http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_bzks/201508/t20150810_199203.html
+          title:  National Encouragement Scholarship
+          url: http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_bzks/201508/t20150810_199203.html
+        # 下面一行待修改
+        - certificate_url: https://www.coursera.org
+          # 优秀学生
+          date_end: '2023-09-01'
+          date_start: '2021-09-01'
+          description: Top 15% of students in the school
+          organization: UESTC
+          organization_url: https://xxgkw.uestc.edu.cn/info/1082/3777.htm
+          title:  Excellent Student Scholarship
+          url: https://xxgkw.uestc.edu.cn/info/1082/3777.htm
     design:
       columns: '2'
   - block: collection
