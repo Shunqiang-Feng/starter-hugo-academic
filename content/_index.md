@@ -15,16 +15,23 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: English
+          description: IELTS 6.5(L7 R7 W6.5 S6)
+          icon: language
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Programme
+          description: 
+              - language: MATLAB
+                icon: fas fa-code
+                icon_pack: fas
+              - language: Python
+                icon: fab fa-python
+                icon_pack: fab
+              - language: C
+                icon: fab fa-c
+                icon_pack: fab
+        - name: Software Packages
+          description: Pytorch
           icon: camera-retro
           icon_pack: fas
   - block: experience
