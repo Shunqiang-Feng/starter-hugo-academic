@@ -87,7 +87,7 @@ sections:
         # 下面一行待修改
         - certificate_url: https://www.datacamp.com
           date_end: ''
-          date_start: '2022-08-10'
+          date_start: '2022-08-10' 
           description:  'Intelligent Tracking Camera System' : Hardware implementation of deep learning neural networks.
           organization: Chinese Institute of Electronics
           organization_url: http://www.socchina.net/
