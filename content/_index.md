@@ -110,7 +110,7 @@ sections:
           date_start: '2021-09-01'
           description: Top 10% of students in the school
           organization: Ministry of Education of the People's Republic of China
-          organization_url: http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_bzks/201508/t20150810_199203.html
+          organization_url: https://drive.google.com/file/d/1QGqTFG2Xh4_D84vaR9CfBVSCBfB0WFu8/view?usp=drive_link
           title:  National Encouragement Scholarship
           url: http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_bzks/201508/t20150810_199203.html
         # 下面一行待修改
