@@ -88,7 +88,7 @@ sections:
         - certificate_url: https://www.datacamp.com
           date_end: ''
           date_start: '2022-08-10' 
-          description:  'Intelligent Tracking Camera System' : Hardware implementation of deep learning neural networks.
+          description:  "Intelligent Tracking Camera System - Hardware implementation of deep learning neural networks."
           organization: Chinese Institute of Electronics
           organization_url: http://www.socchina.net/
           title: The 3rd prize of the National College Students' Embedded Chip and System Design Competition
@@ -98,7 +98,7 @@ sections:
           # 互联网+
           date_end: ''
           date_start: '2021-10-25'
-          description: "The 3rd prize of China College Students' 'Internet+' Innovation and Entrepreneurship Competition" : Application of Generative Adversarial Models in Image Style Transfer.
+          description: "The 3rd prize of China College Students' 'Internet+' Innovation and Entrepreneurship Competition - Application of Generative Adversarial Models in Image Style Transfer."
           organization: National College Student Entrepreneurship Services
           organization_url: https://cy.ncss.cn/
           title: The 3rd prize of China College Students' 'Internet+' Innovation and Entrepreneurship Competition
