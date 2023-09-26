@@ -114,7 +114,7 @@ sections:
           title:  National Encouragement Scholarship
           url: http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_bzks/201508/t20150810_199203.html
         # 下面一行待修改
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://github.com/Freshman101/starter-hugo-academic/blob/01965e4d29b63e36e607623d5c841006e93e27a5/images/Good_Student.png
           # 优秀学生
           date_end: '2023-09-01'
           date_start: '2021-09-01'
