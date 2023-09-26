@@ -19,10 +19,14 @@ sections:
           description: IELTS 6.5(L7 R7 W6.5 S6)
           icon: language
           icon_pack: fas
+        - name: Programme
+          description: Python Matlab C
+          icon: code
+          icon_pack: fas
         - name: Software Packages
           description: Pytorch
           icon: folder
-          icon_pack: fad
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
