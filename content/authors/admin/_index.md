@@ -59,5 +59,5 @@ email: gradientless@outlook.com
 highlight_name: true
 ---
 
-I am a passionate PhD candidate with a strong background in Electronic Information Engineering. My research interests lie at the intersection of artificial intelligence and its applications in the fields of Internet of Things (IoT) and medicine. I am dedicated to exploring innovative solutions that harness AI's potential to transform these domains, addressing complex challenges and making a positive impact on society.
+I am a passionate PhD candidate with a strong background in Electronic Information Engineering. My research interests lie at the intersection of artificial intelligence and its applications in the fields of Internet of Things (IoT) and Medical Image Analysis. I am dedicated to exploring innovative solutions that harness AI's potential to transform these domains, addressing complex challenges and making a positive impact on society.
 {style="text-align: justify;"}
