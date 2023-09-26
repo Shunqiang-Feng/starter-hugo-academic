@@ -76,7 +76,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         # 下面一行待修改
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://drive.google.com/file/d/1DKnvtfpU3lTsos429y-JQgnUpnVrMGFM/view?usp=drive_link
           date_end: ''
           date_start: '2022-12-01'
           description: Mathematical Modeling of Real-Life Problems, Programming Analysis, and Providing a 25-Page Solution.
@@ -85,7 +85,7 @@ sections:
           title: Honorable Mention in Interdisciplinary Contest in Modeling
           url: https://www.comap.com/contests/mcm-icm
         # 下面一行待修改
-        - certificate_url: https://www.datacamp.com
+        - certificate_url: https://drive.google.com/file/d/16_uKb7o_LEIhAR3YHwO3SBlLQ-mAr891/view?usp=drive_link
           date_end: ''
           date_start: '2022-08-10'
           description:  Intelligent Tracking Camera System - Hardware implementation of deep learning neural networks.
@@ -94,7 +94,7 @@ sections:
           title: The 3rd prize of the National College Students' Embedded Chip and System Design Competition
           url: http://www.socchina.net/
         # 下面一行待修改
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://drive.google.com/file/d/16_uKb7o_LEIhAR3YHwO3SBlLQ-mAr891/view?usp=drive_link
           # 互联网+
           date_end: ''
           date_start: '2021-10-25'
@@ -104,7 +104,7 @@ sections:
           title: The 3rd prize of China College Students' 'Internet+' Innovation and Entrepreneurship Competition
           url: https://cy.ncss.cn/
         # 下面一行待修改
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://drive.google.com/file/d/16_uKb7o_LEIhAR3YHwO3SBlLQ-mAr891/view?usp=drive_link
           # 国家励志
           date_end: '2022-09-01'
           date_start: '2021-09-01'
@@ -114,7 +114,7 @@ sections:
           title:  National Encouragement Scholarship
           url: http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_bzks/201508/t20150810_199203.html
         # 下面一行待修改
-        - certificate_url: https://github.com/Freshman101/starter-hugo-academic/blob/01965e4d29b63e36e607623d5c841006e93e27a5/images/Good_Student.png
+        - certificate_url: https://drive.google.com/file/d/16_uKb7o_LEIhAR3YHwO3SBlLQ-mAr891/view?usp=drive_link
           # 优秀学生
           date_end: '2023-09-01'
           date_start: '2021-09-01'
